@@ -1,0 +1,9 @@
+.text{
+    font-size: 35px;
+    color: violet;
+}
+
+h1{
+    @extend .text;
+    text-align: center;
+}

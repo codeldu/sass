@@ -1,0 +1,24 @@
+@mixin card($myWidth, $myBorder:3px, $myBorderColor:black){
+    height: 350px;
+    border: $myBorder solid $myBorderColor;
+    width: $myWidth;
+}
+
+.card-normal{
+    @include card(50%);
+    
+}
+
+.card-fullwidth{
+    @include card(100%);
+  
+}
+
+.card-small{
+    @include card(30%);
+ 
+}
+
+.card-khaticaa{
+    @include card(455px, 3px, purple)
+}

@@ -1,0 +1,20 @@
+.container {
+    background-color: $red-color;
+    width: math.div($all-screen, 3);
+    height: 400px;
+
+    p.text {
+        font-size: $primary-font-size;
+    }
+
+    a.link {
+        font-size: $primary-font-size;
+        color: blue;
+
+        &:hover{
+            font-size: $primary-font-size;
+            color: $hovered-color;
+        }
+    }
+
+}

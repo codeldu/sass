@@ -1,0 +1,49 @@
+.card-normal {
+  height: 350px;
+  border: 3px solid black;
+  width: 50%;
+}
+
+.card-fullwidth {
+  height: 350px;
+  border: 3px solid black;
+  width: 100%;
+}
+
+.card-small {
+  height: 350px;
+  border: 3px solid black;
+  width: 30%;
+}
+
+.card-khaticaa {
+  height: 350px;
+  border: 3px solid purple;
+  width: 455px;
+}
+
+.text, h1 {
+  font-size: 35px;
+  color: violet;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  background-color: red;
+  width: 33.3333333333%;
+  height: 400px;
+}
+.container p.text {
+  font-size: 45px;
+}
+.container a.link {
+  font-size: 45px;
+  color: blue;
+}
+.container a.link:hover {
+  font-size: 45px;
+  color: black;
+}/*# sourceMappingURL=style.css.map */
