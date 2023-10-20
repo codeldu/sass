@@ -31,19 +31,386 @@ h1 {
   text-align: center;
 }
 
-.container {
-  background-color: red;
-  width: 33.3333333333%;
-  height: 400px;
-}
-.container p.text {
-  font-size: 45px;
-}
-.container a.link {
-  font-size: 45px;
-  color: blue;
-}
-.container a.link:hover {
-  font-size: 45px;
+.text-black {
   color: black;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.text-black-1 {
+  color: black;
+  font-weight: 100;
+}
+
+.text-black-2 {
+  color: black;
+  font-weight: 200;
+}
+
+.text-black-3 {
+  color: black;
+  font-weight: 300;
+}
+
+.text-black-4 {
+  color: black;
+  font-weight: 400;
+}
+
+.text-black-5 {
+  color: black;
+  font-weight: 500;
+}
+
+.text-black-6 {
+  color: black;
+  font-weight: 600;
+}
+
+.text-black-7 {
+  color: black;
+  font-weight: 700;
+}
+
+.text-black-8 {
+  color: black;
+  font-weight: 800;
+}
+
+.text-white {
+  color: white;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.text-white-1 {
+  color: white;
+  font-weight: 100;
+}
+
+.text-white-2 {
+  color: white;
+  font-weight: 200;
+}
+
+.text-white-3 {
+  color: white;
+  font-weight: 300;
+}
+
+.text-white-4 {
+  color: white;
+  font-weight: 400;
+}
+
+.text-white-5 {
+  color: white;
+  font-weight: 500;
+}
+
+.text-white-6 {
+  color: white;
+  font-weight: 600;
+}
+
+.text-white-7 {
+  color: white;
+  font-weight: 700;
+}
+
+.text-white-8 {
+  color: white;
+  font-weight: 800;
+}
+
+.text-red {
+  color: rgb(233, 68, 68);
+}
+
+.bg-red {
+  background-color: rgb(233, 68, 68);
+}
+
+.text-red-1 {
+  color: rgb(233, 68, 68);
+  font-weight: 100;
+}
+
+.text-red-2 {
+  color: rgb(233, 68, 68);
+  font-weight: 200;
+}
+
+.text-red-3 {
+  color: rgb(233, 68, 68);
+  font-weight: 300;
+}
+
+.text-red-4 {
+  color: rgb(233, 68, 68);
+  font-weight: 400;
+}
+
+.text-red-5 {
+  color: rgb(233, 68, 68);
+  font-weight: 500;
+}
+
+.text-red-6 {
+  color: rgb(233, 68, 68);
+  font-weight: 600;
+}
+
+.text-red-7 {
+  color: rgb(233, 68, 68);
+  font-weight: 700;
+}
+
+.text-red-8 {
+  color: rgb(233, 68, 68);
+  font-weight: 800;
+}
+
+.text-yellow {
+  color: rgb(247, 247, 86);
+}
+
+.bg-yellow {
+  background-color: rgb(247, 247, 86);
+}
+
+.text-yellow-1 {
+  color: rgb(247, 247, 86);
+  font-weight: 100;
+}
+
+.text-yellow-2 {
+  color: rgb(247, 247, 86);
+  font-weight: 200;
+}
+
+.text-yellow-3 {
+  color: rgb(247, 247, 86);
+  font-weight: 300;
+}
+
+.text-yellow-4 {
+  color: rgb(247, 247, 86);
+  font-weight: 400;
+}
+
+.text-yellow-5 {
+  color: rgb(247, 247, 86);
+  font-weight: 500;
+}
+
+.text-yellow-6 {
+  color: rgb(247, 247, 86);
+  font-weight: 600;
+}
+
+.text-yellow-7 {
+  color: rgb(247, 247, 86);
+  font-weight: 700;
+}
+
+.text-yellow-8 {
+  color: rgb(247, 247, 86);
+  font-weight: 800;
+}
+
+.text-blue {
+  color: rgb(53, 53, 197);
+}
+
+.bg-blue {
+  background-color: rgb(53, 53, 197);
+}
+
+.text-blue-1 {
+  color: rgb(53, 53, 197);
+  font-weight: 100;
+}
+
+.text-blue-2 {
+  color: rgb(53, 53, 197);
+  font-weight: 200;
+}
+
+.text-blue-3 {
+  color: rgb(53, 53, 197);
+  font-weight: 300;
+}
+
+.text-blue-4 {
+  color: rgb(53, 53, 197);
+  font-weight: 400;
+}
+
+.text-blue-5 {
+  color: rgb(53, 53, 197);
+  font-weight: 500;
+}
+
+.text-blue-6 {
+  color: rgb(53, 53, 197);
+  font-weight: 600;
+}
+
+.text-blue-7 {
+  color: rgb(53, 53, 197);
+  font-weight: 700;
+}
+
+.text-blue-8 {
+  color: rgb(53, 53, 197);
+  font-weight: 800;
+}
+
+.text-purple {
+  color: purple;
+}
+
+.bg-purple {
+  background-color: purple;
+}
+
+.text-purple-1 {
+  color: purple;
+  font-weight: 100;
+}
+
+.text-purple-2 {
+  color: purple;
+  font-weight: 200;
+}
+
+.text-purple-3 {
+  color: purple;
+  font-weight: 300;
+}
+
+.text-purple-4 {
+  color: purple;
+  font-weight: 400;
+}
+
+.text-purple-5 {
+  color: purple;
+  font-weight: 500;
+}
+
+.text-purple-6 {
+  color: purple;
+  font-weight: 600;
+}
+
+.text-purple-7 {
+  color: purple;
+  font-weight: 700;
+}
+
+.text-purple-8 {
+  color: purple;
+  font-weight: 800;
+}
+
+.text-brown {
+  color: rgb(94, 43, 43);
+}
+
+.bg-brown {
+  background-color: rgb(94, 43, 43);
+}
+
+.text-brown-1 {
+  color: rgb(94, 43, 43);
+  font-weight: 100;
+}
+
+.text-brown-2 {
+  color: rgb(94, 43, 43);
+  font-weight: 200;
+}
+
+.text-brown-3 {
+  color: rgb(94, 43, 43);
+  font-weight: 300;
+}
+
+.text-brown-4 {
+  color: rgb(94, 43, 43);
+  font-weight: 400;
+}
+
+.text-brown-5 {
+  color: rgb(94, 43, 43);
+  font-weight: 500;
+}
+
+.text-brown-6 {
+  color: rgb(94, 43, 43);
+  font-weight: 600;
+}
+
+.text-brown-7 {
+  color: rgb(94, 43, 43);
+  font-weight: 700;
+}
+
+.text-brown-8 {
+  color: rgb(94, 43, 43);
+  font-weight: 800;
+}
+
+.text-green {
+  color: rgb(59, 212, 59);
+}
+
+.bg-green {
+  background-color: rgb(59, 212, 59);
+}
+
+.text-green-1 {
+  color: rgb(59, 212, 59);
+  font-weight: 100;
+}
+
+.text-green-2 {
+  color: rgb(59, 212, 59);
+  font-weight: 200;
+}
+
+.text-green-3 {
+  color: rgb(59, 212, 59);
+  font-weight: 300;
+}
+
+.text-green-4 {
+  color: rgb(59, 212, 59);
+  font-weight: 400;
+}
+
+.text-green-5 {
+  color: rgb(59, 212, 59);
+  font-weight: 500;
+}
+
+.text-green-6 {
+  color: rgb(59, 212, 59);
+  font-weight: 600;
+}
+
+.text-green-7 {
+  color: rgb(59, 212, 59);
+  font-weight: 700;
+}
+
+.text-green-8 {
+  color: rgb(59, 212, 59);
+  font-weight: 800;
 }/*# sourceMappingURL=style.css.map */
